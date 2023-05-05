@@ -1,0 +1,3 @@
+Links referred to build this project:
+1. https://v2.vuejs.org/v2/guide/
+2. https://v2.vuetifyjs.com/en/components/data-tables/
